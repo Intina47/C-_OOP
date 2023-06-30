@@ -2,7 +2,6 @@
 // and even classes eg: public-allows access from outside the class, 
 //private-restricts access from outside the class, 
 //protected - resticted access to within the class and objects derives from the class
-// Replace ___ with your code
 
 #include <iostream>
 using namespace std;

@@ -1,5 +1,3 @@
-// Replace ___ with your code
-
 #include <iostream>
 using namespace std;
 
