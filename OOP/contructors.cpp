@@ -1,9 +1,11 @@
-// same name as the class
-// similar to member function but lack a return type
-//nb: a costructor is called automatically when we create an object
+// A constructor is like a member function of a class
+// with the same name as the class but has no return type
+
+//nb: a costructor is called automatically when we create an object of the class
 // types:
-// Deafault contructors
-// Parameterized constructors
+// Default contructors: no parameters 
+// Parameterized constructors : has parameters
+
 #include <iostream>
 using namespace std;
 
